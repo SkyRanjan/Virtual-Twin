@@ -1,0 +1,8 @@
+streamlit==1.33.0
+streamlit_chat==0.1.1
+streamlit_lottie==0.0.5
+st_pages==0.4.5
+langgraph-checkpoint-SQLite
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-ollama
