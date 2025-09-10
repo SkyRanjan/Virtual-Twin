@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "name": "live-streaming-demo",
+  "version": "1.0.0",
+  "description": "* (install express) Open a terminal in the folder and run - `npm install express`\r * (add your API key) Edit the `api.json` inside the uncompressed folder and replace the emoji with your key\r * (select service) in the same `api.json` file, edit the `service` field to choose your avatar type, use `talks` for an avatar made from an image or `clips` to use a premade HQ avatar from a video",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
